@@ -1,3 +1,4 @@
+
 {
   "version": 1,
   "auto_update": true,
@@ -167,6 +168,13 @@
       "enabled": true,
       "url": "http://mag.jee-ott.xyz:80/c/",
       "mac": "00:1A:79:00:1B:64"
+    },
+    {
+      "id": 22,
+      "name": "قائمة 22",
+      "type": "m3u",
+      "enabled": true,
+      "url": "http://legendking.net:8080/get.php?username=solaymanezakaria&password=RpWgR2xqEjZITdw&type=m3u_plus&output=m3u"
     }
   ]
 }
