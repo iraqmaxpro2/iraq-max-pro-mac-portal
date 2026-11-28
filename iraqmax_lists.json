@@ -1,5 +1,4 @@
 
-
 {
   "version": 1,
   "auto_update": true,
@@ -10,13 +9,6 @@
       "type": "m3u",
       "enabled": true,
       "url": "http://foxbleu.org:8789/get.php?username=ludovic&password=8333&type=m3u_plus"
-    },
-    {
-      "id": 2,
-      "name": "عراق ماكس 2",
-      "type": "m3u",
-      "enabled": true,
-      "url": "http://000000118730.shop:80/get.php?username=5987441942&password=3275942594&type=m3u_plus&output=m3u8"
     }
   ]
 }
